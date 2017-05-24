@@ -1,6 +1,8 @@
+#Importar librerías
 from tkinter import *
 import license
 import about
+
 #Label(etiqueta)
  
 root = Tk()
